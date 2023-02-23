@@ -3,7 +3,7 @@
     "description": "A free anime streaming restful API serving anime from GogoAnime.",
     "keywords": ["express", "gogoanime", "scrapper", "api", "streaming"],
     "website": "https://github.com/riimuru/gogoanime#readme",
-    "repository": "https://github.com/riimuru/gogoanime",
+    "repository": "https://github.com/itspro-dev/anikatsu-api",
     "logo": "https://raw.githubusercontent.com/riimuru/gogoanime/main/images/image1.png",
 
     "env": {
